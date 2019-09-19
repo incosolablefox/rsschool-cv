@@ -1,1 +1,1 @@
-# rsschool-cvhttps://github.com/incosolablefox/rsschool-cv.git
+https://github.com/incosolablefox/rsschool-cv.git
